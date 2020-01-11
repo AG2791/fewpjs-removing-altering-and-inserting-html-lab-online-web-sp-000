@@ -1,3 +1,3 @@
 // Write your code here!
-main.removeChild(ul.querySelector('main'))
+main.removeChild(main.querySelector('main'))
 
