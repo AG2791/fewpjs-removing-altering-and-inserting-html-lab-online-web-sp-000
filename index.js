@@ -1,5 +1,5 @@
 // Write your code here!
 main.remove()
 
-let var = newHeader 
-newHead = 
+let newHeader = document.createElement('h1.innerHTML('victory')')
+
