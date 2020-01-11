@@ -2,5 +2,5 @@
 main.remove()
 
 let newHeader = document.createElement('h1#victory')
- h1
+ 
 
