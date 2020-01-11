@@ -1,3 +1,3 @@
 // Write your code here!
-let doc
+let main = 
 document.removeElemen(main.main);
