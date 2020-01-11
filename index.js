@@ -2,4 +2,4 @@
 main.remove()
 
 let var = newHeader 
-newHead
+newHead = 
